@@ -1,0 +1,2 @@
+DRIVER           = C:\\Drivers\\chromedriver.exe
+HomePageURL      = https://www.royalmail.com/
